@@ -7,14 +7,12 @@ import CharacterInfo from "./CharacterInfo"
 import styled from "styled-components"
 
 
-
 const UL = styled.ul `
 list-style-type:none;
 display: flex;
 flex-wrap: wrap;
 
 `
-
 
 export default function Characters() {
     const[characters,setCharacters] = useState([])

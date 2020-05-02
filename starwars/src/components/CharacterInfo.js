@@ -3,8 +3,8 @@ import React from "react";
 import styled from "styled-components"
 
 const ListItem = styled.li `
-    margin: 20px;
-    background-color: rgba(255, 255, 255,0.4);
+    margin: 30px;
+    background-color: rgba(255, 255, 255,0.7);
     padding: 30px;
     max-width: 250px;
 `
